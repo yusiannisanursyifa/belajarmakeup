@@ -1,0 +1,81 @@
+body	{background-image : url("w3.jpg");}
+
+
+
+.logo	{background-image :url("w.jpg");
+		 width : 250px;
+		 height : 155px;
+		 float:left;
+		 border-radius: 15px; }
+
+#wrapper {
+
+width:1000px;
+
+margin:auto;
+
+}
+
+#header-wrapper {font-family:snap itc ; color:orange ; 
+
+width:1000px; height : 150px;
+
+background : navajowhite;
+
+border:solid #555;
+float : center;
+border-radius: 15px; 
+}
+
+
+
+#content-wrapper{
+
+width:600px; height : 2000px;
+
+float:left;
+
+background:aqua;
+
+border:solid #555;
+
+margin-top:5px;
+border-radius: 15px; 
+
+}
+
+ 
+#navkanan{ 
+background : navajowhite;  
+ width:360px;  
+ height:1000px;  
+ float:right;
+ margin-top:5px;
+ border :solid;
+ border-radius: 15px; 
+}  
+
+
+
+#footer-wrapper{
+
+width:1000px;
+
+border:solid #555;
+
+float:left;
+
+background:teal;
+
+margin-top:5px;
+border-radius: 15px; 
+
+}
+
+#p			 {font-family : snap itc;
+			  font-weight : bold;
+			  font-size : 15pt;
+			  color : teal;
+			  position : absolute ;
+			  float:center;}
+			  
